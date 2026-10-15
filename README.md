@@ -1,6 +1,6 @@
 # 布鲁诺记忆轮 (Bruno Memory Wheel)
 
-基于乔尔丹诺·布鲁诺《论观念的影子》（1582）的记忆术工具，采用任天堂像素风设计。
+基于乔尔丹诺·布鲁诺《论观念的影子》（1582）的记忆术工具，采用像素风设计。
 
 ![像素风](https://img.shields.io/badge/style-NES%20Pixel-green)
 ![React](https://img.shields.io/badge/React-18-blue)
@@ -17,8 +17,7 @@
 
 ## 在线体验
 
-https://jhi7ll2drdpoo.ok.kimi.link
-
+(https://hejpanpan.github.io/bruno-memory-wheel/)
 ## 本地开发
 
 ```bash
